@@ -20,4 +20,6 @@ so compatibility with macOS 12.0+ is unknown.
 This config should patch the BCM94331CD Wireless card in macOS 10.14 Mojave and 10.15 Catalina.
 Boot arguments for macOS 11.0+ support have to be added manually because of the iMac SMBIOS. You can also change it.
 ```
+<div>
 <img src="[http://yt-techandosworld.rf.gd/images/PXL_20220730_121300178.jpg">
+</div>
